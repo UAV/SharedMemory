@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharedMemory2", "sharedMemory2\sharedMemory2.csproj", "{571E3CC8-63C8-47D7-8A0E-4F675718B55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSharedMemory", "TestSharedMemory\TestSharedMemory.csproj", "{1509D610-0908-4027-8FAE-D288D5039257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{571E3CC8-63C8-47D7-8A0E-4F675718B55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571E3CC8-63C8-47D7-8A0E-4F675718B55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571E3CC8-63C8-47D7-8A0E-4F675718B55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571E3CC8-63C8-47D7-8A0E-4F675718B55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1509D610-0908-4027-8FAE-D288D5039257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1509D610-0908-4027-8FAE-D288D5039257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1509D610-0908-4027-8FAE-D288D5039257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1509D610-0908-4027-8FAE-D288D5039257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
